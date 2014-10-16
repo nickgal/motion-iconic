@@ -1,4 +1,4 @@
-require_relative "./lib/motion-iconic/version"
+require "./lib/motion-iconic/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "motion-iconic"
